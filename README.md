@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" >
+</p>
+
 # Felipe A Pellegrini
 <sub>*Data Scientist* at Bebela Jeans</sub>
 
