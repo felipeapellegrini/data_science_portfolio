@@ -17,5 +17,6 @@ As a experienced Data Scientist and Business Manager I combine analytical skills
 See my published projects here:
 * **Violence Analysis of Rio de Janeiro (portuguese)**: <https://bit.ly/38hTAUV>
 * **Cardiovascular Diseases (Exploratory Analysis - portuguese)**: https://bit.ly/2u7XeSw
+* **Credit Cart Fraud Detection (portuguese)**: * https://bit.ly/2HtlyRU
 
 ---
