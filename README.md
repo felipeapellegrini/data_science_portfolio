@@ -18,5 +18,6 @@ See my published projects here:
 * **Violence Analysis of Rio de Janeiro (portuguese)**: <https://bit.ly/38hTAUV>
 * **Cardiovascular Diseases (Exploratory Analysis - portuguese)**: https://bit.ly/2u7XeSw
 * **Credit Cart Fraud Detection (portuguese)**: * https://bit.ly/2HtlyRU
-
+* **consumer behavior analysis**: https://bit.ly/2OszH5o
+* **Sales Analysis bt Product Price** https://bit.ly/38VSIqd
 ---
